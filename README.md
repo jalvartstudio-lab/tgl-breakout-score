@@ -17,7 +17,7 @@ https://theglitchlist.com/breakout-log/ — quiet days included.
 
 ## Links
 - Live alerts → https://theglitchlist.com/macro-alerts/
-- Score guide → https://theglitchlist.com/score-guide/
+- Free guide → https://theglitchlist.com/macro-alerts/#guide-sec
 - Open datasets → https://www.kaggle.com/jalvartstudio
 
 *Not financial advice. Alerts are informational only.*
